@@ -1,0 +1,9 @@
+DE Project Files
+.idea/*
+
+#OSX files
+.DS_Store
+
+#Jenkins jobs
+work
+target
